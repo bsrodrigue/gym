@@ -159,3 +159,4 @@ const cacheCluster = new elasticache.CfnCacheCluster(this, "CapacityCache", {
 
 With the Lambda placed inside the same VPC as the cache cluster.
 # gym
+# gym

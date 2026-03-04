@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Gym Capacity",
+    "slug": "gym-capacity",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "gymcapacity",
+    "platforms": ["ios", "android"],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f0f1a"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "gym-capacity-infra",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "cdk": "cdk"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "^2.178.2",
+    "constructs": "^10.4.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "aws-cdk": "^2.178.2"
+  }
+}
